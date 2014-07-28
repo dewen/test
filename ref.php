@@ -9,9 +9,6 @@
  * 5. object value
  */
 $array = get_test_array();
-
-// }}}
-
 $result = searchy($array, 'XlnwK', 'g4tgCoDint', array());
 echo '<pre>';
 var_dump($result);
